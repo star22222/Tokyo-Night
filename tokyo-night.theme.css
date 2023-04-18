@@ -64,8 +64,8 @@
   --interactive-muted: #55576b;
 
   /* Background Color */
-  --background-primary: #292b3c;
-  --background-secondary: #171722;
+  --background-primary: #171722;
+  --background-secondary: #292b3c;
   --background-secondary-alt: #1a1b26;
   --background-tertiary: #16161e;
   --background-tertiary-alt: var(--background-secondary-alt);
